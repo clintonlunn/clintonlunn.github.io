@@ -83,6 +83,14 @@ p.lead {
   color: #BD5D38;
 }
 
+.flex-grid {
+  display: flex !important;
+}
+
+.col {
+  flex: 1 !important;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
